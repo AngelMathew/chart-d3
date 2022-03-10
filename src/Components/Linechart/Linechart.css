@@ -1,0 +1,22 @@
+#d3demo{
+    width:80vw;
+    height:60vh;
+    padding:0 1em;
+}
+svg{
+    border:1px solid black;
+}
+.y-axis path,.x-axis path{
+    stroke: #264653;
+    stroke-width: 1px;
+}
+
+.y-axis line,.x-axis line{
+    stroke: #264653;
+    stroke-width: 1px;
+}
+
+.y-axis text,.x-axis text{
+    color: #264653;
+    font-size: 1.2em;
+}
